@@ -1,0 +1,3 @@
+e876d8ba-a6b8-44c1-9001-52c2d5551cab:1740034103940:0:S:set lines 100 pages 100
+ee17a8b8-880f-4fd7-a81e-66c79d8baf7e:1740034116820:94:S:select * from dept;
+611ccb5a-b925-481e-a8a1-87e681c7682e:1740034128863:0:F:select * from loc;
